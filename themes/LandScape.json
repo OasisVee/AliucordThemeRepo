@@ -1,1 +1,25 @@
-{"manifest": {"author": "Fox", "name": "LandScape", "updater": "https://raw.githubusercontent.com/GangsterFox/AliuFox-themes/main/LandScape.json", "version": "1.0.2", "license": "OSL-3.0"}, "background": {"alpha": 75, "url": "https://media.discordapp.net/attachments/590317150959566849/885288479997714432/EZ68pA.jpg"}, "fonts": {}, "simple_colors": {"mention_highlight": 438408947, "background": 59549888, "background_secondary": 76327104}, "colors": {"primary_dark_630": -1758514890}, "drawable_tints": {"drawable_overlay_channels_selected_dark": -935180723}}
+{
+    "manifest": {
+        "author": "Fox",
+        "name": "LandScape",
+        "updater": "https://raw.githubusercontent.com/GangsterFox/AliuFox-themes/main/LandScape.json",
+        "version": "1.0.2",
+        "license": "OSL-3.0"
+    },
+    "background": {
+        "alpha": 75,
+        "url": "https://media.discordapp.net/attachments/590317150959566849/885288479997714432\/EZ68pA.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "mention_highlight": 438408947,
+        "background": 59549888,
+        "background_secondary": 76327104
+    },
+    "colors": {
+        "primary_dark_630": -1758514890
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": -935180723
+    }
+}

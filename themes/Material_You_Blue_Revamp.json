@@ -1,0 +1,45 @@
+{
+    "manifest": {
+        "author": "chickennugget#4787",
+        "name": "Material You Blue Revamp",
+        "version": "2.0.1",
+        "updater": "https:\/\/raw.githubusercontent.com\/ceferix\/alucordthemes\/main\/materialbluerevamp.json"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "background": -13289412,
+        "accent": -5771781,
+        "background_secondary": -10527657,
+        "mention_highlight": 845110359,
+        "active_channel": 2108157435,
+        "input_background": -1184017
+    },
+    "colors": {
+        "primary_dark_200": -1184017,
+        "primary_dark_300": -1184017,
+        "primary_dark_360": -1184017,
+        "uikit_btn_bg_color_selector_brand": -5771781,
+        "uikit_btn_bg_color_selector_green": -11953767,
+        "uikit_btn_compound_color_selector_dark": -5771781,
+        "uikit_btn_compound_color_selector_light": -5771781,
+        "uikit_settings_item_text_color_dark": -1184017,
+        "primary_dark_400": -1527910673,
+        "primary_dark_800": -13289412,
+        "uikit_btn_bg_color_selector_red": -11953767
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_off_dark_24dp": -1184017,
+        "ic_sidebar_notifications_on_dark_24dp": -1184017,
+        "ic_sidebar_pins_off_dark_24dp": -1184017,
+        "ic_channel_announcements": -1184017,
+        "ic_channel_announcements_locked": -1184017,
+        "ic_channel_announcements_nsfw": -1184017,
+        "ic_channel_text": -1184017,
+        "ic_channel_text_locked": -1184017,
+        "ic_channel_text_nsfw": -1184017,
+        "drawable_button_grey": -5771781,
+        "drawable_button_red": -5771781,
+        "ic_mobile": -11953767
+    }
+}

@@ -1,1 +1,47 @@
-{"manifest": {"author": "Isadora \u262d#2311", "version": "1.2.1", "name": "Nico Robin (STAMPEDE)", "updater": "https://raw.githubusercontent.com/Isadora-URSS/Aliucord-themes/main/Nico%20Robin%20(STAMPEDE)/Nico%20Robin%20(STAMPEDE).json"}, "background": {"overlay_alpha": 75, "url": "https://raw.githubusercontent.com/Isadora-URSS/Aliucord-themes/main/Nico%20Robin%20(STAMPEDE)/Nico%20Robin%20(STAMPEDE).png"}, "fonts": {}, "simple_colors": {"background": 419430400, "background_secondary": 620756992, "input_background": 603979776, "mention_highlight": 1700954515, "accent": -2567432}, "colors": {"uikit_btn_compound_color_selector_dark": -10600585, "uikit_btn_compound_color_selector_light": -3093776, "uikit_settings_item_text_color_dark": -3093776, "uikit_btn_bg_color_selector_red": -10600585, "primary_dark_300": -2567432, "primary_dark_360": -3093776, "primary_dark_200": -394759, "primary_dark_660": 861814647, "primary_700": 1248743303, "primary_dark_400": -3093776, "primary_630": 1900949351, "uikit_settings_item_text_color_light": -7303024, "white_800": -11653273}, "drawable_tints": {"drawable_button_grey": 1053870832, "drawable_overlay_channels_selected_dark": -10600585, "drawable_button_red": -10600585, "drawable_voice_indicator_speaking": -2567432, "ic_thread": -2567432, "ic_sidebar_notifications_off_dark_24dp": -2567432, "ic_sidebar_notifications_on_dark_24dp": -2567432, "ic_sidebar_pins_off_dark_24dp": -2567432, "ic_sidebar_pins_on_dark_24dp": -2567432}, "raws": {}}
+{
+    "manifest": {
+        "author": "Isadora ☭#2311",
+        "version": "1.2.1",
+        "name": "Nico Robin (STAMPEDE)",
+        "updater": "https:\/\/raw.githubusercontent.com\/Isadora-URSS\/Aliucord-themes\/main\/Nico%20Robin%20(STAMPEDE)\/Nico%20Robin%20(STAMPEDE).json"
+    },
+    "background": {
+        "overlay_alpha": 75,
+        "url": "https:\/\/raw.githubusercontent.com\/Isadora-URSS\/Aliucord-themes\/main\/Nico%20Robin%20(STAMPEDE)\/Nico%20Robin%20(STAMPEDE).png"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 419430400,
+        "background_secondary": 620756992,
+        "input_background": 603979776,
+        "mention_highlight": 1700954515,
+        "accent": -2567432
+    },
+    "colors": {
+        "uikit_btn_compound_color_selector_dark": -10600585,
+        "uikit_btn_compound_color_selector_light": -3093776,
+        "uikit_settings_item_text_color_dark": -3093776,
+        "uikit_btn_bg_color_selector_red": -10600585,
+        "primary_dark_300": -2567432,
+        "primary_dark_360": -3093776,
+        "primary_dark_200": -394759,
+        "primary_dark_660": 861814647,
+        "primary_700": 1248743303,
+        "primary_dark_400": -3093776,
+        "primary_630": 1900949351,
+        "uikit_settings_item_text_color_light": -7303024,
+        "white_800": -11653273
+    },
+    "drawable_tints": {
+        "drawable_button_grey": 1053870832,
+        "drawable_overlay_channels_selected_dark": -10600585,
+        "drawable_button_red": -10600585,
+        "drawable_voice_indicator_speaking": -2567432,
+        "ic_thread": -2567432,
+        "ic_sidebar_notifications_off_dark_24dp": -2567432,
+        "ic_sidebar_notifications_on_dark_24dp": -2567432,
+        "ic_sidebar_pins_off_dark_24dp": -2567432,
+        "ic_sidebar_pins_on_dark_24dp": -2567432
+    },
+    "raws": {}
+}

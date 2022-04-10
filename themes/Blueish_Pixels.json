@@ -1,1 +1,34 @@
-{"manifest": {"version": "1.0.0", "name": "Blueish Pixels", "license": " ", "updater": "https://raw.githubusercontent.com/Neimit/Blueish-Pixels/main/Blueish_Pixels.json", "author": "Neimit"}, "background": {"overlay_alpha": 0}, "fonts": {"*": "https://cdn.discordapp.com/attachments/885687665167564802/885687912837054464/minecraft_font.ttf"}, "simple_colors": {"background_secondary": -11769738, "background": -13223618, "accent": -6631538, "mention_highlight": -1297229662, "active_channel": -10905906}, "colors": {"primary_dark_360": -8603026, "uikit_btn_bg_color_selector_green": -8603026, "primary_dark_400": -1051666, "primary_dark_300": -1051666}, "drawable_tints": {"drawable_overlay_channels_selected_dark": -1956935599, "ic_sidebar_notifications_off_dark_24dp": -2086293, "ic_sidebar_notifications_on_dark_24dp": -1051666, "ic_sidebar_pins_off_dark_24dp": -1051666}}
+{
+    "manifest": {
+        "version": "1.0.0",
+        "name": "Blueish Pixels",
+        "license": " ",
+        "updater": "https:\/\/raw.githubusercontent.com\/Neimit\/Blueish-Pixels\/main\/Blueish_Pixels.json",
+        "author": "Neimit"
+    },
+    "background": {
+        "overlay_alpha": 0
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/885687665167564802\/885687912837054464\/minecraft_font.ttf"
+    },
+    "simple_colors": {
+        "background_secondary": -11769738,
+        "background": -13223618,
+        "accent": -6631538,
+        "mention_highlight": -1297229662,
+        "active_channel": -10905906
+    },
+    "colors": {
+        "primary_dark_360": -8603026,
+        "uikit_btn_bg_color_selector_green": -8603026,
+        "primary_dark_400": -1051666,
+        "primary_dark_300": -1051666
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": -1956935599,
+        "ic_sidebar_notifications_off_dark_24dp": -2086293,
+        "ic_sidebar_notifications_on_dark_24dp": -1051666,
+        "ic_sidebar_pins_off_dark_24dp": -1051666
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "CherryTheme",
+    "author": "Jahy",
+    "version": "1.0.0",
+    "updater": "https://raw.githubusercontent.com/Jahykun/CherryTheme/main/CherryTheme.json",
+    "color_link": -1143378,
+    "mention_highlight": -3970937,
+    "simple_accent_color": -9816761,
+    "simple_bg_color": -6205589,
+    "simple_bg_secondary_color": -10738889
+}

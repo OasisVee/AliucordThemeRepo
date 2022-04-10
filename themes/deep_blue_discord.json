@@ -1,1 +1,23 @@
-{"manifest": {"author": "roseliine#1621", "name": "deep_blue_discord", "version": "1.0.0"}, "background": {}, "fonts": {}, "simple_colors": {"accent": -9273638, "background": -14079935, "mention_highlight": 863141594, "input_background": -14935255, "background_secondary": -14935255, "statusbar": -14935255, "active_channel": 2132548393}, "colors": {"primary_dark_800": -14935255}, "drawable_tints": {}, "raws": {}}
+{
+    "manifest": {
+        "author": "roseliine#1621",
+        "name": "deep_blue_discord",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "accent": -9273638,
+        "background": -14079935,
+        "mention_highlight": 863141594,
+        "input_background": -14935255,
+        "background_secondary": -14935255,
+        "statusbar": -14935255,
+        "active_channel": 2132548393
+    },
+    "colors": {
+        "primary_dark_800": -14935255
+    },
+    "drawable_tints": {},
+    "raws": {}
+}

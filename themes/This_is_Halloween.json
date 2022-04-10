@@ -1,0 +1,54 @@
+{
+    "manifest": {
+        "author": "chickennugget#4787",
+        "version": "1.1.2",
+        "name": "This is Halloween",
+        "license": "CC Attribution 3.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/ceferix\/alucordthemes\/main\/itsoctoberbitches.json"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "background": -13885900,
+        "accent": -6071503,
+        "background_secondary": -14937311,
+        "mention_highlight": 866343729,
+        "active_channel": 2107857713,
+        "input_background": -1528371482
+    },
+    "colors": {
+        "primary_dark_200": -1528371482,
+        "primary_dark_300": -6071503,
+        "primary_dark_360": 2145838822,
+        "uikit_btn_bg_color_selector_brand": -6071503,
+        "uikit_btn_bg_color_selector_red": -7133915,
+        "uikit_btn_compound_color_selector_dark": -6071503,
+        "uikit_btn_compound_color_selector_light": -6071503,
+        "uikit_settings_item_text_color_dark": -1528371482,
+        "primary_dark_400": -1528371482,
+        "primary_dark_800": -14937311,
+        "uikit_settings_item_text_color_light": -11321762,
+        "link_500": -6071503,
+        "dim_foreground_material_light": -14937311,
+        "uikit_btn_bg_color_selector_green": -9089136
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_off_dark_24dp": -6071503,
+        "ic_sidebar_notifications_on_dark_24dp": -6071503,
+        "ic_sidebar_pins_off_dark_24dp": -6071503,
+        "ic_channel_announcements": -1511528474,
+        "ic_channel_announcements_locked": -1528371482,
+        "ic_channel_announcements_nsfw": -1528371482,
+        "ic_channel_text": -1528371482,
+        "ic_channel_text_locked": -1511594266,
+        "ic_channel_text_nsfw": -1511594266,
+        "drawable_button_grey": -6071503,
+        "drawable_button_red": -7133915,
+        "ic_mobile": -9089136,
+        "ic_add_friend_plus": -6071503,
+        "ic_status_online_16dp": -9089136,
+        "ic_status_idle_16dp": -3704244,
+        "ic_status_dnd_16dp": -7133915,
+        "ic_sidebar_search_24dp": -6071503
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "manifest": {
+        "author": "qadomy#8683",
+        "name": "hachi",
+        "version": "1.0.0"
+    },
+    "background": {
+        "overlay_alpha": 0,
+        "url": "https:\/\/media.discordapp.net\/attachments\/901000116356386827\/904561376675127398\/1635734604970.png"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "accent": -34816,
+        "active_channel": -34816,
+        "input_background": -34816,
+        "background": 738197504,
+        "background_secondary": 1258291200,
+        "statusbar": -1291845632
+    },
+    "colors": {
+        "brand_new": -34816,
+        "brand_new_360": -34816,
+        "brand_new_230": -34816,
+        "brand_new_560": -1325434880,
+        "primary_dark_660": 0,
+        "primary_dark_800": -16777216,
+        "primary_600": 1593835520
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": 838821376
+    }
+}

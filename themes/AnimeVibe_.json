@@ -1,1 +1,36 @@
-{"manifest": {"author": "Mateussss ", "version": "4.0", "name": "AnimeVibe?", "updater": "https://raw.githubusercontent.com/Mateusssssssss/Anime-Vibe-/main/idk.json"}, "background": {"blur_radius": 0, "overlay_alpha": 0, "url": "https://media.discordapp.net/attachments/895057329618309171/897577014071001108/20211012_170839.gif"}, "fonts": {}, "simple_colors": {"background": 0, "background_secondary": 1241513984, "accent": -445442098, "active_channel": 1883771348, "mention_highlight": 1058481093}, "colors": {"uikit_btn_bg_color_selector_green": -7994645, "uikit_btn_bg_color_selector_red": -9957456}, "drawable_tints": {"ic_status_online_16dp": -12339839, "ic_status_dnd_16dp": -6805207, "ic_status_streaming_16dp": -10930539, "ic_status_invisible_16dp": -8355712, "ic_status_idle_16dp": -350693}, "raws": {"call_calling": "https://cdn.discordapp.com/attachments/895131174270279680/908534089752150106/Discord_Remix.mp3", "call_ringing": "https://cdn.discordapp.com/attachments/895131174270279680/908534089752150106/Discord_Remix.mp3"}}
+{
+    "manifest": {
+        "author": "Mateussss ",
+        "version": "4.0",
+        "name": "AnimeVibe?",
+        "updater": "https:\/\/raw.githubusercontent.com\/Mateusssssssss\/Anime-Vibe-\/main\/idk.json"
+    },
+    "background": {
+        "blur_radius": 0,
+        "overlay_alpha": 0,
+        "url": "https:\/\/media.discordapp.net\/attachments\/895057329618309171\/897577014071001108\/20211012_170839.gif"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 1241513984,
+        "accent": -445442098,
+        "active_channel": 1883771348,
+        "mention_highlight": 1058481093
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_green": -7994645,
+        "uikit_btn_bg_color_selector_red": -9957456
+    },
+    "drawable_tints": {
+        "ic_status_online_16dp": -12339839,
+        "ic_status_dnd_16dp": -6805207,
+        "ic_status_streaming_16dp": -10930539,
+        "ic_status_invisible_16dp": -8355712,
+        "ic_status_idle_16dp": -350693
+    },
+    "raws": {
+        "call_calling": "https:\/\/cdn.discordapp.com\/attachments\/895131174270279680\/908534089752150106\/Discord_Remix.mp3",
+        "call_ringing": "https:\/\/cdn.discordapp.com\/attachments\/895131174270279680\/908534089752150106\/Discord_Remix.mp3"
+    }
+}

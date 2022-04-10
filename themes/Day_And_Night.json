@@ -1,0 +1,57 @@
+{
+    "manifest": {
+        "author": "Carnage.exe#0492",
+        "name": "Day And Night",
+        "version": "0.1"
+    },
+    "background": {
+        "overlay_alpha": 0,
+        "url": "https:\/\/media.discordapp.net\/attachments\/898886146065575976\/899509268405960704\/day_night.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/github.com\/001Carnage001\/AliuCord-Themes\/blob\/main\/Fonts\/Cocogoose-Classic-Medium-trial.ttf",
+        "ginto_bold": "https:\/\/github.com\/001Carnage001\/AliuCord-Themes\/blob\/main\/Fonts\/Cocogoose-Classic-ExtraBold-trial.ttf",
+        "ginto_regular": "https:\/\/github.com\/001Carnage001\/AliuCord-Themes\/blob\/main\/Fonts\/Cocogoose-Classic-Medium-trial.ttf",
+        "ginto_medium": "https:\/\/github.com\/001Carnage001\/AliuCord-Themes\/blob\/main\/Fonts\/Cocogoose-Classic-Medium-trial.ttf"
+    },
+    "simple_colors": {
+        "mention_highlight": 852912142,
+        "accent": -15118208,
+        "background": 973078528,
+        "background_secondary": 956301312
+    },
+    "colors": {
+        "primary_dark_200": -14188851,
+        "primary_dark_630": 623345357,
+        "primary_dark_300": -14188851,
+        "primary_dark_360": -14188851,
+        "brand_new_630": -15118208,
+        "uikit_btn_compound_color_selector_dark": -2725874,
+        "uikit_btn_compound_color_selector_light": -2725874,
+        "uikit_btn_bg_color_selector_background_accent_dark": -2725874,
+        "uikit_btn_bg_color_selector_background_accent_light": -2725874,
+        "uikit_btn_bg_color_selector_brand": -2725874,
+        "uikit_btn_bg_color_selector_secondary": -2725874,
+        "uikit_btn_bg_color_selector_secondary_dark": -2725874,
+        "uikit_btn_bg_color_selector_secondary_light": -2725874,
+        "uikit_btn_bg_color_selector_white": -131587,
+        "uikit_btn_outline_color_selector_brand": -2725874,
+        "uikit_settings_item_text_color_light": 1691772942,
+        "uikit_settings_item_text_color_dark": -2725874,
+        "link": -15118208
+    },
+    "drawable_tints": {
+        "ic_sidebar_pins_off_light_24dp": -2725874,
+        "ic_sidebar_notifications_off_dark_24dp": -2725874,
+        "ic_sidebar_pins_on_light_24dp": -2725874,
+        "ic_sidebar_notifications_on_light_24dp": -2725874,
+        "ic_sidebar_pins_on_dark_24dp": -2725874,
+        "ic_sidebar_pins_off_dark_24dp": -2725874,
+        "ic_sidebar_notifications_off_light_24dp": -2725874,
+        "ic_sidebar_notifications_on_dark_24dp": -2725874,
+        "drawable_overlay_channel_pressed_dark": -15118208,
+        "drawable_overlay_channel_pressed_light": -15118208,
+        "drawable_overlay_channels_selected_dark": 2115588224,
+        "drawable_overlay_channels_selected_light": 2098811008
+    }
+}

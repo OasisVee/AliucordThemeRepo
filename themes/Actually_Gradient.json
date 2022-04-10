@@ -1,1 +1,36 @@
-{"manifest": {"author": "chickennugget#4787", "name": "Actually Gradient", "version": "1.0.0", "license": "OPL 3.0", "updater": "https://raw.githubusercontent.com/ceferix/alucordthemes/main/actuallygradient.json"}, "background": {"overlay_alpha": 50, "url": "https://media.discordapp.net/attachments/827395125981741056/894586381827985418/1633276724951.png"}, "fonts": {}, "simple_colors": {"background": 0, "background_secondary": 402653184, "active_channel": -14737626, "accent": -13285499, "mention_highlight": -1524687066}, "colors": {"primary_dark_800": -14737626, "link_500": -13285499, "dim_foreground_material_light": -14737626, "uikit_btn_bg_color_selector_brand": -13285499, "uikit_btn_bg_color_selector_green": -11444335, "uikit_btn_bg_color_selector_red": -8047307, "uikit_settings_item_text_color_light": -12303286}, "drawable_tints": {"ic_status_dnd_16dp": -8047307, "ic_mobile": -11444335, "drawable_button_grey": -13285499, "drawable_button_red": -8047307}}
+{
+    "manifest": {
+        "author": "chickennugget#4787",
+        "name": "Actually Gradient",
+        "version": "1.0.0",
+        "license": "OPL 3.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/ceferix\/alucordthemes\/main\/actuallygradient.json"
+    },
+    "background": {
+        "overlay_alpha": 50,
+        "url": "https:\/\/media.discordapp.net\/attachments\/827395125981741056\/894586381827985418\/1633276724951.png"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 402653184,
+        "active_channel": -14737626,
+        "accent": -13285499,
+        "mention_highlight": -1524687066
+    },
+    "colors": {
+        "primary_dark_800": -14737626,
+        "link_500": -13285499,
+        "dim_foreground_material_light": -14737626,
+        "uikit_btn_bg_color_selector_brand": -13285499,
+        "uikit_btn_bg_color_selector_green": -11444335,
+        "uikit_btn_bg_color_selector_red": -8047307,
+        "uikit_settings_item_text_color_light": -12303286
+    },
+    "drawable_tints": {
+        "ic_status_dnd_16dp": -8047307,
+        "ic_mobile": -11444335,
+        "drawable_button_grey": -13285499,
+        "drawable_button_red": -8047307
+    }
+}

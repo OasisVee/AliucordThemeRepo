@@ -1,0 +1,36 @@
+{
+    "manifest": {
+        "author": "Kulouch#3024",
+        "name": "Dark Pink",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/906289447476269069\/906488243447533568\/20211106_112029.png",
+        "overlay_alpha": 0
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/906289447476269069\/906295319975833711\/trebuc.ttf"
+    },
+    "simple_colors": {
+        "background": -14671820,
+        "accent": -7630690,
+        "statusbar": -14671820,
+        "mention_highlight": -14671820
+    },
+    "colors": {
+        "primary_dark_300": -7630690,
+        "primary_dark_660": -15527137,
+        "primary_dark_700": -15527137,
+        "primary_dark_800": -15527137,
+        "primary_dark_200": -3092272,
+        "primary_700": -14671820,
+        "uikit_btn_bg_color_selector_green": -3211179,
+        "uikit_btn_bg_color_selector_red": -3211179,
+        "uikit_settings_item_text_color_dark": -7630690,
+        "link": -3211179
+    },
+    "drawable_tints": {
+        "drawable_overlay_channel_pressed_dark": -15527137,
+        "drawable_overlay_channels_selected_dark": -15527137
+    }
+}

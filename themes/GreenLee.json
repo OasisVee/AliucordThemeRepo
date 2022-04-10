@@ -1,1 +1,27 @@
-{"manifest": {"author": "\ud835\ude40\ud835\ude6b\ud835\ude5a#5029", "name": "GreenLee", "version": "1.0.0"}, "background": {}, "fonts": {}, "simple_colors": {"background": -12632257, "accent": -10438018, "mention_highlight": 1215223184}, "colors": {"primary_dark_300": -11941259, "primary_dark_400": -9513584, "link": -14636978, "uikit_btn_bg_color_selector_red": -14303143, "uikit_settings_item_text_color_light": -14303143}, "drawable_tints": {"ic_channel_text": -11941259, "ic_thread": -11941259, "drawable_overlay_channels_selected_dark": -330708363, "drawable_button_red": -14303143}}
+{
+    "manifest": {
+        "author": "𝙀𝙫𝙚#5029",
+        "name": "GreenLee",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "background": -12632257,
+        "accent": -10438018,
+        "mention_highlight": 1215223184
+    },
+    "colors": {
+        "primary_dark_300": -11941259,
+        "primary_dark_400": -9513584,
+        "link": -14636978,
+        "uikit_btn_bg_color_selector_red": -14303143,
+        "uikit_settings_item_text_color_light": -14303143
+    },
+    "drawable_tints": {
+        "ic_channel_text": -11941259,
+        "ic_thread": -11941259,
+        "drawable_overlay_channels_selected_dark": -330708363,
+        "drawable_button_red": -14303143
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "manifest": {
+        "author": "Edges chan#6281",
+        "name": "No Limits",
+        "version": "1.0",
+        "license": "GPL 3.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/edgess73\/nltheme\/main\/nl.json"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/891181839602049054\/894606793198690315\/Screenshot_20211004-1824132.png",
+        "blur_radius": 0,
+        "overlay_alpha": 0
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/891181839602049054\/894610126298816562\/GoudySansStd_Bold.otf "
+    },
+    "simple_colors": {
+        "accent": -8110684,
+        "background": 56303734,
+        "background_secondary": 1867521127,
+        "mention_highlight": 1183071652,
+        "active_channel": -1719386716,
+        "statusbar": 25443748,
+        "input_background": 1869886864
+    },
+    "colors": {
+        "link": -2086293
+    },
+    "drawable_tints": {}
+}

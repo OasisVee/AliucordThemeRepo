@@ -1,1 +1,38 @@
-{"manifest": {"name": "Policy", "version": "1.0.0", "author": "policy#1337"}, "background": {"url": "https://media.discordapp.net/attachments/876542889348456498/897947695849803846/eb67e5fbeed0cce87c71aa2eb43348e7.jpg"}, "fonts": {"*": "https://cdn.discordapp.com/attachments/852919625293627423/897897960732504116/Oh_Whale_-_TTF.ttf"}, "simple_colors": {"background_secondary": 0, "input_background": 0, "accent": -15118208, "mention_highlight": 1294433997, "active_channel": -2095492992}, "colors": {"primary_dark_630": 0, "primary_dark_600": 0, "primary_dark_800": 7485952, "uikit_btn_bg_color_selector_red": -401059968, "primary_dark_300": -392970266, "uikit_settings_item_text_color_light": -15317392, "primary_dark_400": -10057046, "uikit_btn_bg_color_selector_green": -4535591}, "drawable_tints": {"ic_thread": -7558976, "ic_channel_text": -7824732, "drawable_overlay_channel_pressed_dark": 1847086976, "drawable_bg_reaction_dark": -2020824896, "ic_channel_text_grey_18dp": -2084644624, "ic_channel_voice_grey_18dp": -2096621014}}
+{
+    "manifest": {
+        "name": "Policy",
+        "version": "1.0.0",
+        "author": "policy#1337"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/876542889348456498\/897947695849803846\/eb67e5fbeed0cce87c71aa2eb43348e7.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/852919625293627423\/897897960732504116\/Oh_Whale_-_TTF.ttf"
+    },
+    "simple_colors": {
+        "background_secondary": 0,
+        "input_background": 0,
+        "accent": -15118208,
+        "mention_highlight": 1294433997,
+        "active_channel": -2095492992
+    },
+    "colors": {
+        "primary_dark_630": 0,
+        "primary_dark_600": 0,
+        "primary_dark_800": 7485952,
+        "uikit_btn_bg_color_selector_red": -401059968,
+        "primary_dark_300": -392970266,
+        "uikit_settings_item_text_color_light": -15317392,
+        "primary_dark_400": -10057046,
+        "uikit_btn_bg_color_selector_green": -4535591
+    },
+    "drawable_tints": {
+        "ic_thread": -7558976,
+        "ic_channel_text": -7824732,
+        "drawable_overlay_channel_pressed_dark": 1847086976,
+        "drawable_bg_reaction_dark": -2020824896,
+        "ic_channel_text_grey_18dp": -2084644624,
+        "ic_channel_voice_grey_18dp": -2096621014
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "background": {
+        "alpha": 255,
+        "blur_radius": 5,
+        "overlay_alpha": 60,
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/900580913065377892\/962336916781547590\/kOI4vqj.png"
+    },
+    "colors": {
+        "brand": -14013910,
+        "brand_500": -14013910,
+        "brand_600": -14013910,
+        "brand_new": -14013910,
+        "flexInputIconColor": -12895429,
+        "link": -11824171,
+        "link_light": -9459234,
+        "material_grey_50": -15000543,
+        "uikit_btn_bg_color_selector_background_accent_light": -15329762,
+        "uikit_btn_bg_color_selector_green": -16777216,
+        "uikit_btn_bg_color_selector_red": 1610612221,
+        "uikit_btn_bg_color_selector_secondary_dark": -16777216,
+        "uikit_btn_bg_color_selector_secondary_light": -15000543,
+        "uikit_btn_compound_color_selector_light": -1124073472,
+        "primary_dark_660": 1459617792,
+        "link_500": -11824171
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -8288631,
+        "drawable_overlay_channels_active_dark": 2062939637,
+        "drawable_overlay_channels_selected_dark": -2132351258
+    },
+    "fonts": {},
+    "manifest": {
+        "version": "1.2",
+        "name": "Emptiness. ",
+        "author": "Skyluf",
+        "updater": "https:\/\/raw.githubusercontent.com\/skyluf\/Emptiness-theme\/main\/Emptiness.json"
+    },
+    "simple_colors": {
+        "accent": -1052689,
+        "background": 823925788,
+        "background_secondary": 555161367,
+        "mention_highlight": 1920367002
+    },
+    "raws": {}
+}

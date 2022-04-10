@@ -1,0 +1,45 @@
+{
+    "manifest": {
+        "author": "Overly_Pathetic#7417",
+        "name": "RobCo Unified Operating System",
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/OverlyPathetic\/Aliucord-RobCo-UOS-theme\/main\/RobCo%20Unified%20Operating%20System.json"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/707153652917207041\/902589509756125204\/piptec_18.jpeg"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/707153652917207041\/902606744650403840\/ShareTechMono-Regular.ttf"
+    },
+    "simple_colors": {
+        "background": 0,
+        "accent": -15404940,
+        "input_background": -15123159,
+        "mention_highlight": -5174517,
+        "active_channel": -15404940,
+        "background_secondary": 4835957
+    },
+    "colors": {
+        "uikit_settings_item_text_color_dark": -15404940,
+        "uikit_text_color_selector": -15404940,
+        "uikit_btn_compound_color_selector_dark": -15404940,
+        "uikit_btn_bg_color_selector_secondary_dark": -15404940,
+        "uikit_btn_text_color_selector": -15404940,
+        "uikit_btn_bg_color_selector_background_accent_dark": -15404940,
+        "primary_dark_300": -15404940,
+        "primary_dark_200": -15404940,
+        "primary_dark_100": -15404940,
+        "primary_dark_400": -15404940,
+        "primary_dark_460": -15404940,
+        "primary_dark_430": -15404940,
+        "primary_dark_500": -15404940,
+        "uikit_btn_bg_color_selector_red": -15042247,
+        "material_grey_100": -15404940,
+        "material_grey_300": -15404940,
+        "channel_item_hub_selector": -15404940,
+        "primary_dark_360": -15404940
+    },
+    "drawable_tints": {
+        "ic_channel_text": -15404940
+    }
+}

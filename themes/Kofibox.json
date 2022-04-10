@@ -1,0 +1,61 @@
+{
+    "manifest": {
+        "author": "VEIS#0130",
+        "name": "Kofibox",
+        "version": "1.0.0",
+        "url": "https:\/\/raw.githubusercontent.com\/Veis2015\/Veis-themes\/main\/Kofibox.json"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "background": -14145496,
+        "background_secondary": -11515579,
+        "mention_highlight": 836093089,
+        "active_channel": -12435134,
+        "input_background": -12830666,
+        "statusbar": -14145496,
+        "accent": -10660012
+    },
+    "colors": {
+        "brand_new_360": -7243153,
+        "brand_new_630": -1320014,
+        "brand_new_600": -1320014,
+        "brand_new_560": -12830666,
+        "brand_new_530": -1320014,
+        "brand_new_500": -1320014,
+        "brand_new_460": -1320014,
+        "brand_new_430": -1320014,
+        "brand_new_400": -1320014,
+        "brand_new_230": -1320014,
+        "brand_new_260": -1320014,
+        "brand_new_300": -1320014,
+        "brand_new_330": -1320014,
+        "link": -12221048,
+        "primary_dark_100": -11778235,
+        "primary_dark_300": -1320014,
+        "primary_dark_360": -594749,
+        "primary_dark_630": -12830666,
+        "primary_dark_200": -1320014,
+        "primary_dark_400": -4346221,
+        "primary_600": -8097754,
+        "primary_660": -12830666,
+        "primary_700": -12830666,
+        "primary_700_alpha_60": -12435134,
+        "white_800": -4346221,
+        "transparent": -4346221,
+        "uikit_btn_bg_color_selector_red": -1320014,
+        "uikit_settings_item_text_color_light": -7504272
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -12221048,
+        "abc_action_bar_item_background_material": -8489635,
+        "drawable_button_red": -11689820,
+        "drawable_voice_indicator_speaking": -7504272,
+        "drawable_voice_sensitivity_progress": -4611702,
+        "ic_spine_short_no_cap": -1320014,
+        "ic_spine_short_cap": -1320014,
+        "ic_spine_long_no_cap": -1320014,
+        "ic_spine_long_cap": -1320014
+    },
+    "raws": {}
+}

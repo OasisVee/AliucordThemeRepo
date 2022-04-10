@@ -1,0 +1,37 @@
+{
+    "manifest": {
+        "author": "snappyapple632#0632",
+        "name": "Zuneify",
+        "version": "1.0.0",
+		"licence": "GPLv3",
+		"updater": "https:\/\/raw.githubusercontent.com\/snappyapple632\/Zuneify\/main\/Zuneify.json"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/882021156255858778\/887869761806037022\/zune_mobile_comp.png",
+        "overlay_alpha": 0
+    },
+    "fonts": {
+        "ginto_bold": "https:\/\/cdn.discordapp.com\/attachments\/882021156255858778\/882021293178900530\/ZegoeCapsBold.ttf",
+        "ginto_medium": "https:\/\/cdn.discordapp.com\/attachments\/882021156255858778\/882021300661526578\/ZegoeUI-U.ttf",
+        "roboto_medium_numbers": "https:\/\/cdn.discordapp.com\/attachments\/882021156255858778\/885397600348565524\/MetalOnMetal.TTF",
+        "ginto_regular": "https:\/\/cdn.discordapp.com\/attachments\/882021156255858778\/882021275558617128\/ZegoeAltBold.ttf",
+        "whitney_bold": "https:\/\/cdn.discordapp.com\/attachments\/882021156255858778\/882021306290298910\/ZegoeUI-UBold.ttf",
+        "whitney_semibold": "https:\/\/cdn.discordapp.com\/attachments\/882021156255858778\/882021275558617128\/ZegoeAltBold.ttf",
+        "whitney_medium": "https:\/\/cdn.discordapp.com\/attachments\/882021156255858778\/882021300661526578\/ZegoeUI-U.ttf"
+    },
+    "simple_colors": {
+        "statusbar": 0,
+        "background": 1392508928,
+        "background_secondary": 0,
+        "mention_highlight": 1409220833,
+        "accent": 2147418337,
+        "active_channel": 0
+    },
+    "colors": {
+        "link": -65311,
+        "link_500": -65311,
+        "uikit_btn_compound_color_selector_dark": -65311
+    },
+    "drawable_tints": {},
+    "raws": {}
+}

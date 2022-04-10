@@ -1,1 +1,39 @@
-{"manifest": {"author": "\ud835\ude40\ud835\ude6b\ud835\ude5a#5029", "name": "Leo", "version": "1.0.0", "updater": "https://raw.githubusercontent.com/KindaColdNGL/Leo/main/Leo.json"}, "background": {"url": "https://cdn.discordapp.com/attachments/895162852996956220/896234610600575016/images_69-2.jpeg"}, "fonts": {"*": "https://cdn.discordapp.com/attachments/881344281024016405/884755124373827624/Quicksand_Regular_400.ttf"}, "simple_colors": {"background_secondary": 0, "input_background": 0, "accent": -1804175, "mention_highlight": 1306818673, "active_channel": -2081596067}, "colors": {"primary_dark_630": 0, "primary_dark_600": 0, "primary_dark_800": 7485952, "uikit_btn_bg_color_selector_red": -388082099, "primary_dark_300": -388082099, "uikit_settings_item_text_color_light": -2206131, "primary_dark_400": -1804175, "uikit_btn_bg_color_selector_green": -1336683}, "drawable_tints": {"ic_thread": -1795490, "ic_channel_text": -1528967, "drawable_overlay_channel_pressed_dark": 1859780686, "drawable_bg_reaction_dark": -2013495682, "ic_channel_text_grey_18dp": -2081596067, "ic_channel_voice_grey_18dp": -2081596067}}
+{
+    "manifest": {
+        "author": "𝙀𝙫𝙚#5029",
+        "name": "Leo",
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/KindaColdNGL\/Leo\/main\/Leo.json"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/895162852996956220\/896234610600575016\/images_69-2.jpeg"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/881344281024016405\/884755124373827624\/Quicksand_Regular_400.ttf"
+    },
+    "simple_colors": {
+        "background_secondary": 0,
+        "input_background": 0,
+        "accent": -1804175,
+        "mention_highlight": 1306818673,
+        "active_channel": -2081596067
+    },
+    "colors": {
+        "primary_dark_630": 0,
+        "primary_dark_600": 0,
+        "primary_dark_800": 7485952,
+        "uikit_btn_bg_color_selector_red": -388082099,
+        "primary_dark_300": -388082099,
+        "uikit_settings_item_text_color_light": -2206131,
+        "primary_dark_400": -1804175,
+        "uikit_btn_bg_color_selector_green": -1336683
+    },
+    "drawable_tints": {
+        "ic_thread": -1795490,
+        "ic_channel_text": -1528967,
+        "drawable_overlay_channel_pressed_dark": 1859780686,
+        "drawable_bg_reaction_dark": -2013495682,
+        "ic_channel_text_grey_18dp": -2081596067,
+        "ic_channel_voice_grey_18dp": -2081596067
+    }
+}

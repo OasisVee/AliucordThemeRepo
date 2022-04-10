@@ -1,1 +1,55 @@
-{"manifest": {"author": "cyriotic3", "name": "Haste", "version": "1.0.12", "updater": "https://raw.githubusercontent.com/cyriotic3/Haste/main/Haste.json"}, "background": {}, "fonts": {"*": "https://raw.githubusercontent.com/cyriotic3/Haste/main/NotoSansMono.ttf"}, "simple_colors": {"mention_highlight": 872415231, "accent": -7291703, "input_background": -16239812, "statusbar": -16768469}, "colors": {"brand_new_560": -10983950, "link": -7291703, "primary_700": -16239812, "primary_dark_200": -1, "primary_dark_300": -7291703, "primary_dark_400": -7291703, "primary_dark_600": -16766410, "primary_dark_630": -16766410, "primary_dark_660": -16239812, "primary_dark_700": -16768469, "primary_dark_800": -16239812, "uikit_btn_bg_color_selector_red": -7291703, "uikit_btn_compound_color_selector_dark": -7291703, "primary_dark_360": -11963521, "uikit_settings_item_text_color_dark": -1, "abc_tint_switch_track": -16766410, "uikit_settings_item_text_color_light": -11963521}, "drawable_tints": {"drawable_button_grey": -16239812, "drawable_button_red": -16239812, "drawable_overlay_channels_selected_dark": -16239812, "drawable_voice_sensitivity_progress": -7291703, "drawable_voice_user_background_speaking": -1, "ic_channel_announcements": -1, "ic_channel_text": -1, "ic_channel_text_locked": -1, "ic_channel_text_nsfw": -1, "ic_sidebar_notifications_off_dark_24dp": -11963521, "ic_sidebar_notifications_on_dark_24dp": -7291703, "ic_sidebar_pins_off_dark_24dp": -7291703, "ic_direct_message_header": -1, "ic_group_message_header": -1, "ic_menu_24dp": -1, "ic_sidebar_search_24dp": -7291703}}
+{
+    "manifest": {
+        "author": "cyriotic3",
+        "name": "Haste",
+        "version": "1.0.12",
+        "updater": "https:\/\/raw.githubusercontent.com\/cyriotic3\/Haste\/main\/Haste.json"
+    },
+    "background": {},
+    "fonts": {
+        "*": "https:\/\/raw.githubusercontent.com\/cyriotic3\/Haste\/main\/NotoSansMono.ttf"
+    },
+    "simple_colors": {
+        "mention_highlight": 872415231,
+        "accent": -7291703,
+        "input_background": -16239812,
+        "statusbar": -16768469
+    },
+    "colors": {
+        "brand_new_560": -10983950,
+        "link": -7291703,
+        "primary_700": -16239812,
+        "primary_dark_200": -1,
+        "primary_dark_300": -7291703,
+        "primary_dark_400": -7291703,
+        "primary_dark_600": -16766410,
+        "primary_dark_630": -16766410,
+        "primary_dark_660": -16239812,
+        "primary_dark_700": -16768469,
+        "primary_dark_800": -16239812,
+        "uikit_btn_bg_color_selector_red": -7291703,
+        "uikit_btn_compound_color_selector_dark": -7291703,
+        "primary_dark_360": -11963521,
+        "uikit_settings_item_text_color_dark": -1,
+        "abc_tint_switch_track": -16766410,
+        "uikit_settings_item_text_color_light": -11963521
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -16239812,
+        "drawable_button_red": -16239812,
+        "drawable_overlay_channels_selected_dark": -16239812,
+        "drawable_voice_sensitivity_progress": -7291703,
+        "drawable_voice_user_background_speaking": -1,
+        "ic_channel_announcements": -1,
+        "ic_channel_text": -1,
+        "ic_channel_text_locked": -1,
+        "ic_channel_text_nsfw": -1,
+        "ic_sidebar_notifications_off_dark_24dp": -11963521,
+        "ic_sidebar_notifications_on_dark_24dp": -7291703,
+        "ic_sidebar_pins_off_dark_24dp": -7291703,
+        "ic_direct_message_header": -1,
+        "ic_group_message_header": -1,
+        "ic_menu_24dp": -1,
+        "ic_sidebar_search_24dp": -7291703
+    }
+}

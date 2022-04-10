@@ -1,0 +1,38 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "author": "Dollar#1838",
+        "name": "Outer Void"
+    },
+    "background": {
+        "overlay_alpha": 0,
+        "blur_radius": 0,
+        "url": "https:\/\/media.discordapp.net\/attachments\/739638554291863605\/908723245061120080\/sketch-1636726878243.png"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/906289447476269069\/906295319975833711\/trebuc.ttf"
+    },
+    "simple_colors": {
+        "background": -15461356,
+        "accent": -9933705,
+        "statusbar": -15724518,
+        "mention_highlight": 426748382
+    },
+    "colors": {
+        "primary_dark_300": -9933705,
+        "primary_dark_660": -15132391,
+        "primary_dark_700": -15263977,
+        "primary_dark_800": -15461356,
+        "primary_dark_200": -3092272,
+        "primary_700": -15461356,
+        "uikit_btn_bg_color_selector_green": -3049329,
+        "uikit_btn_bg_color_selector_red": -3049329,
+        "uikit_settings_item_text_color_dark": -9933705,
+        "link": -3049329
+    },
+    "drawable_tints": {
+        "drawable_overlay_channel_pressed_dark": -15527137,
+        "drawable_overlay_channels_selected_dark": -15527137
+    },
+    "raws": {}
+}

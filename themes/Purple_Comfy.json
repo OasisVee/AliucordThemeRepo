@@ -1,0 +1,58 @@
+{
+    "manifest": {
+        "author": "Veis#7468",
+        "name": "Purple Comfy",
+        "version": "1.0.0",
+        "license": "MIT",
+        "updater": "https:\/\/raw.githubusercontent.com\/Veis2015\/Veis-themes\/main\/purplecomfy.json"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "accent": -60756,
+        "background": -12704972,
+        "mention_highlight": -2144199638,
+        "input_background": -12704972,
+        "background_secondary": -12704972
+    },
+    "colors": {
+        "spotify": -60756,
+        "primary_dark_600": -12704972,
+        "primary_630": -12704972,
+        "primary_dark_700": -12704972,
+        "link": -60756,
+        "primary_700": -12704972,
+        "uikit_btn_bg_color_selector_background_accent_dark": -60756,
+        "accent_material_dark": -60756,
+        "primary_600": -13756121,
+        "primary_dark_800": -12704972,
+        "primary_dark_630": -12704972,
+        "primary_dark_100": -60756,
+        "primary_dark_300": -60756,
+        "brand_new": -60756,
+        "primary_dark_660": -13756121,
+        "uikit_btn_bg_color_selector_brand": -15042247,
+        "uikit_btn_bg_color_selector_green": -60756,
+        "uikit_btn_bg_color_selector_red": -60756,
+        "uikit_settings_item_text_color_dark": -60756,
+        "dark_grey_2": -12704972,
+        "primary_500": -60756,
+        "uikit_btn_bg_color_selector_secondary_dark": -60756
+    },
+    "drawable_tints": {
+        "drawable_squircle_primary_600": -13756121,
+        "drawable_circle_primary_900": -13756121,
+        "drawable_button_grey": -60756,
+        "drawable_overlay_channels_selected_dark": -13756121,
+        "ic_channel_text": -13756121,
+        "drawable_voice_indicator_speaking": -60756,
+        "drawable_voice_user_background_speaking": -12704972,
+        "drawable_voice_sensitivity_progress": -60756,
+        "ic_guild_invite_24dp": -8355712,
+        "thread_embed_spine_drawable": -60756,
+        "ic_spine_short_no_cap": -60756,
+        "ic_spine_long_no_cap": -60756,
+        "ic_spine_short_cap": -60756,
+        "ic_spine_long_cap": -60756
+    }
+}

@@ -1,1 +1,61 @@
-{"manifest": {"name": "Dark Discord Cyan Redux", "author": "Rhy#1752", "version": "1.7", "updater": "https://raw.githubusercontent.com/RhyMegu/DarkDiscordRedux/main/DDCY.json", "license": "MIT"}, "background": {}, "fonts": {}, "simple_colors": {"background": -15461356, "background_secondary": -15658735, "mention_highlight": 300200960, "accent": -14110579, "blocked_bg": -15658735}, "colors": {"uikit_btn_bg_color_selector_green": -12666214, "uikit_btn_bg_color_selector_red": -1890997, "reddit": -2725874, "reddit_500": -5089523, "status_red": -1890997, "status_red_100": -1890997, "status_green_100": -13063026, "status_green_130": -14644625, "status_green_160": -14110579, "status_green_200": -13135237, "status_green_230": -12666214, "status_green_260": -14174318, "status_green_300": -12217473, "status_green_330": -12666214, "status_green_360": -12284550, "status_green_400": -12666214, "status_green_430": -15083353, "status_green_460": -12666214, "status_green_500": -12666214, "status_green_530": -14374778, "status_green_560": -12666214, "status_green_600": -12803449, "status_green_630": -12666214, "status_green_660": -15030141, "status_green_700": -14899325, "status_green_730": -13068931, "status_green_760": -14962550, "status_green_800": -12666214, "status_green_830": -13663892, "status_green_960": -13977966, "status_green": -12666214, "uikit_btn_bg_color_selector_brand": -14110579, "primary_600": -14110579, "link": -14110579, "link_500": -14110579}, "drawable_tints": {"drawable_overlay_channels_selected_dark": 427918985, "drawable_button_red": -1890997, "drawable_overlay_channels_active_dark": 1065453193}, "raws": {}}
+{
+    "manifest": {
+        "name": "Dark Discord Cyan Redux",
+        "author": "Rhy#1752",
+        "version": "1.7",
+        "updater": "https:\/\/raw.githubusercontent.com\/RhyMegu\/DarkDiscordRedux\/main\/DDCY.json",
+        "license": "MIT"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "background": -15461356,
+        "background_secondary": -15658735,
+        "mention_highlight": 300200960,
+        "accent": -14110579,
+        "blocked_bg": -15658735
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_green": -12666214,
+        "uikit_btn_bg_color_selector_red": -1890997,
+        "reddit": -2725874,
+        "reddit_500": -5089523,
+        "status_red": -1890997,
+        "status_red_100": -1890997,
+        "status_green_100": -13063026,
+        "status_green_130": -14644625,
+        "status_green_160": -14110579,
+        "status_green_200": -13135237,
+        "status_green_230": -12666214,
+        "status_green_260": -14174318,
+        "status_green_300": -12217473,
+        "status_green_330": -12666214,
+        "status_green_360": -12284550,
+        "status_green_400": -12666214,
+        "status_green_430": -15083353,
+        "status_green_460": -12666214,
+        "status_green_500": -12666214,
+        "status_green_530": -14374778,
+        "status_green_560": -12666214,
+        "status_green_600": -12803449,
+        "status_green_630": -12666214,
+        "status_green_660": -15030141,
+        "status_green_700": -14899325,
+        "status_green_730": -13068931,
+        "status_green_760": -14962550,
+        "status_green_800": -12666214,
+        "status_green_830": -13663892,
+        "status_green_960": -13977966,
+        "status_green": -12666214,
+        "uikit_btn_bg_color_selector_brand": -14110579,
+        "primary_600": -14110579,
+        "link": -14110579,
+        "link_500": -14110579
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": 427918985,
+        "drawable_button_red": -1890997,
+        "drawable_overlay_channels_active_dark": 1065453193
+    },
+    "raws": {}
+}

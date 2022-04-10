@@ -1,1 +1,20 @@
-{"name": "Black Cherry", "author": "Mellia", "version": "1.0.0", "updater": "https://raw.githubusercontent.com/SethsterToast/Black-Cherry-Aliucord-Theme/main/Black_Cherry.json", "color_brand_new": -718564, "color_brand_new_360": -718564, "color_brand_new_560": -718564, "color_link": -718564, "color_primary_630": -14087927, "color_primary_dark_100": -6858918, "color_primary_dark_400": -6462878, "color_primary_dark_660": -14087927, "color_primary_dark_700": -14087927, "drawablecolor_ic_channel_text": -6858918, "mention_highlight": 2071135238, "simple_accent_color": -718564, "simple_bg_color": -14744831, "simple_bg_secondary_color": -14087927}
+{
+    "name": "Black Cherry",
+    "author": "Mellia",
+    "version": "1.0.0",
+    "updater": "https:\/\/raw.githubusercontent.com\/SethsterToast\/Black-Cherry-Aliucord-Theme\/main\/Black_Cherry.json",
+    "color_brand_new": -718564,
+    "color_brand_new_360": -718564,
+    "color_brand_new_560": -718564,
+    "color_link": -718564,
+    "color_primary_630": -14087927,
+    "color_primary_dark_100": -6858918,
+    "color_primary_dark_400": -6462878,
+    "color_primary_dark_660": -14087927,
+    "color_primary_dark_700": -14087927,
+    "drawablecolor_ic_channel_text": -6858918,
+    "mention_highlight": 2071135238,
+    "simple_accent_color": -718564,
+    "simple_bg_color": -14744831,
+    "simple_bg_secondary_color": -14087927
+}

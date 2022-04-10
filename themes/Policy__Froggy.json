@@ -1,0 +1,39 @@
+{
+    "manifest": {
+        "name": "Policy: Froggy",
+        "version": "1.0.0",
+        "author": "policy#1337"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/873240959318642748\/898236145882759238\/859378e98146ff91dd603d649ca5ea3a.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/852919625293627423\/897897960732504116\/Oh_Whale_-_TTF.ttf"
+    },
+    "simple_colors": {
+        "background_secondary": 0,
+        "input_background": 0,
+        "accent": -7151444,
+        "mention_highlight": 1301471404,
+        "active_channel": -2095817941,
+        "statusbar": -7817557
+    },
+    "colors": {
+        "primary_dark_630": 0,
+        "primary_dark_600": 0,
+        "primary_dark_800": 7485952,
+        "uikit_btn_bg_color_selector_red": -393364324,
+        "primary_dark_300": -398422182,
+        "uikit_settings_item_text_color_light": -4264755,
+        "primary_dark_400": -10183562,
+        "uikit_btn_bg_color_selector_green": -7817557
+    },
+    "drawable_tints": {
+        "ic_thread": -14303143,
+        "ic_channel_text": -15286665,
+        "drawable_overlay_channel_pressed_dark": 1854206119,
+        "drawable_bg_reaction_dark": -2028773331,
+        "ic_channel_text_grey_18dp": -2087863140,
+        "ic_channel_voice_grey_18dp": -2090819954
+    }
+}

@@ -1,1 +1,40 @@
-{"manifest": {"author": "KNOCKDEMPUT#9568", "version": "1.2.6", "name": "You Trippin'", "license": "no license ", "updater": "https://raw.githubusercontent.com/rickdtc/Aliurcord-themes/main/Transparent.json"}, "background": {"url": "https://cdn.discordapp.com/attachments/887930190137786399/888074185597915156/giphy.gif", "overlay_alpha": 0}, "fonts": {}, "simple_colors": {"background": 956301312, "background_secondary": 1560281088, "accent": 1505558783, "statusbar": 1560281088, "mention_highlight": 631775462}, "colors": {"primary_dark_200": -872415233, "primary_dark_360": 1560281087, "uikit_btn_bg_color_selector_red": -1817181953, "link": -1045430017, "uikit_btn_bg_color_selector_green": -1045430017, "status_green": -1045430017, "primary_dark_100": 1353711871, "primary_700": -1907153305, "primary_630": 2136155751}, "drawable_tints": {"drawable_overlay_guild_mentions_dark": 1979711488, "drawable_overlay_channels_selected_dark": 597635281, "ic_status_dnd_16dp": 1962868896, "ic_account_spotify": -5242625, "ic_account_twitter": -8626433, "ic_add_friend_plus": -1045430017}}
+{
+    "manifest": {
+        "author": "KNOCKDEMPUT#9568",
+        "version": "1.2.6",
+        "name": "You Trippin'",
+        "license": "no license ",
+        "updater": "https:\/\/raw.githubusercontent.com\/rickdtc\/Aliurcord-themes\/main\/Transparent.json"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/887930190137786399\/888074185597915156\/giphy.gif",
+        "overlay_alpha": 0
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 956301312,
+        "background_secondary": 1560281088,
+        "accent": 1505558783,
+        "statusbar": 1560281088,
+        "mention_highlight": 631775462
+    },
+    "colors": {
+        "primary_dark_200": -872415233,
+        "primary_dark_360": 1560281087,
+        "uikit_btn_bg_color_selector_red": -1817181953,
+        "link": -1045430017,
+        "uikit_btn_bg_color_selector_green": -1045430017,
+        "status_green": -1045430017,
+        "primary_dark_100": 1353711871,
+        "primary_700": -1907153305,
+        "primary_630": 2136155751
+    },
+    "drawable_tints": {
+        "drawable_overlay_guild_mentions_dark": 1979711488,
+        "drawable_overlay_channels_selected_dark": 597635281,
+        "ic_status_dnd_16dp": 1962868896,
+        "ic_account_spotify": -5242625,
+        "ic_account_twitter": -8626433,
+        "ic_add_friend_plus": -1045430017
+    }
+}
