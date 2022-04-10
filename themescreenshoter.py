@@ -140,10 +140,20 @@ def guh():
             else:
                 theme["transparencyMode"] = 0
             theme["screenshots"] = ["/screenshots/" +
-                                    theme["fileName"] + "/"+str(i)+".png" for i in range(3)]
+                                    theme["fileName"] + "/"+str(i)+".webp" for i in range(3)]
         open('themeList.json', 'w').close()
 
         f.write(json.dumps(themeObjects, indent=4))
+
+imagick = r'C:\"Program Files"\ImageMagick-6.9.12-Q8\convert.exe '
+path = r"C:\Users\manti\Desktop\projeler\themerScreenshoter\screenshots\\"
+def compressImages():
+    for folder in os.listdir(path):
+        for image in os.listdir(path + folder):
+            print("Compressing",folder + "/" + image)
+            imagePath:str = path + folder + "\\" + image
+            os.system(imagick + imagePath + " " + imagePath[0:-3] +"webp")
+            os.remove(imagePath)
 
 for theme in getUnscreenShottedThemes():
     generateScreenShots(theme)
