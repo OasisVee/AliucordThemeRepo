@@ -40,7 +40,7 @@ def generateScreenShots(themeFileName: str):
     os.system(sendFile)
     os.system(sendCommand.format(guh=themeFileName))
     os.system(startcommand)
-    sleep(8)
+    sleep(9)
 
     dirName = themeFileName.removesuffix(".json")
     try:
@@ -148,6 +148,5 @@ def guh():
 for theme in getUnscreenShottedThemes():
     generateScreenShots(theme)
 
-print(len(getUnscreenShottedThemes()))
-# generateThemeList()
+    # generateThemeList()
 # guh()
