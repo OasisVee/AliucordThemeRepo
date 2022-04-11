@@ -133,17 +133,19 @@ def guh():
     with open("themeList.json", "r+", encoding="utf-8") as f:
         themeObjects = json.load(f)
 
-        for theme in themeObjects:
-            themeName = theme["fileName"]
-            if isFullTransparent(themeName):
-                theme["transparencyMode"] = 3
-            else:
-                theme["transparencyMode"] = 0
-            theme["screenshots"] = ["/screenshots/" +
-                                    theme["fileName"] + "/"+str(i)+".webp" for i in range(3)]
-        open('themeList.json', 'w').close()
-
+    for theme in themeObjects:
+        themeName = theme["fileName"]
+        if isFullTransparent(themeName):
+            theme["transparencyMode"] = 3
+        else:
+            theme["transparencyMode"] = 0
+        theme["screenshots"] = ["/screenshots/" +
+                                theme["fileName"].removesuffix(".json") + "/"+str(i)+".webp" for i in range(3)]
+    with open('themeList.json', 'w') as f:
+        f.seek(0)
         f.write(json.dumps(themeObjects, indent=4))
+
+    
 
 imagick = r'C:\"Program Files"\ImageMagick-6.9.12-Q8\convert.exe '
 path = r"C:\Users\manti\Desktop\projeler\themerScreenshoter\screenshots\\"
@@ -159,4 +161,4 @@ for theme in getUnscreenShottedThemes():
     generateScreenShots(theme)
 
     # generateThemeList()
-# guh()
+guh()
