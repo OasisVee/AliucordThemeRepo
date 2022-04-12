@@ -1,4 +1,5 @@
 from operator import ge
+from typing import Dict
 from numpy import int32
 from time import sleep
 import json
@@ -29,14 +30,14 @@ def getTheme(themeFileName: str):
         theme = json.load(f)
     return theme
 
-
-def generateScreenShots(themeFileName: str):
+def generateScreenShots(theme: dict):
+    themeFileName = theme["fileName"]
     themeName = getThemeName(themeFileName)
     os.system(stopcommand)
     os.system(getFile)
     with open("Themer.json", "w") as f:
         f.write(json.dumps({themeName + '-enabled': True,
-                "transparencyMode": 3 if isFullTransparent(themeFileName) else 0}, indent=4))
+                "transparencyMode": theme["transparencyMode"]}, indent=4))
     os.system(sendFile)
     os.system(sendCommand.format(guh=themeFileName))
     os.system(startcommand)
@@ -61,11 +62,11 @@ def validateFileName(fileName: str):
 
 
 def getUnscreenShottedThemes():
-    themes = os.listdir("themes")
+    themes = getAllThemesJSON()
     themesToScreenshoted = []
     for theme in themes:
-        if not ((os.path.isdir("screenshots/" + theme.removesuffix(".json"))) and
-                len(os.listdir("screenshots/" + theme.removesuffix(".json"))) == 3):
+        if not ((os.path.isdir("screenshots/" + theme["name"].removesuffix(".json"))) and
+                len(os.listdir("screenshots/" + theme["name"].removesuffix(".json"))) == 3):
             themesToScreenshoted.append(theme)
     return themesToScreenshoted
 
@@ -76,9 +77,9 @@ def isColorTransparent(color: str):
         return (int(color) & 0xFF000000) != 0xFF000000
     return False
 
-
 def isFullTransparent(them):
     theme = getTheme(them)
+    if "background" in theme: return True
     if "simple_colors" in theme and ("background" in theme["simple_colors"] and isColorTransparent(theme["simple_colors"]["background"]) or ("background_secondary" in theme["simple_colors"] and isColorTransparent(theme["simple_colors"]["background_secondary"]))):
         return True
     if "colors" in them:
@@ -88,7 +89,7 @@ def isFullTransparent(them):
                 return True
         return False
 
-
+# temaları themelistden alıp transparencyyi ordan al
 def generateThemeList():
     themeObjects = []
 
@@ -107,6 +108,10 @@ def generateThemeList():
     with open("themeList.json", "w+", encoding="utf-8") as f:
         json.dump(themeObjects, f, indent=4)
 
+
+def getAllThemesJSON():
+    with open("themeList.json", "r+", encoding="utf-8") as f:
+        return json.load(f)
 
 def getAllThemes():
     return os.listdir("themes")
@@ -157,6 +162,8 @@ def compressImages():
             imagePath:str = path + folder + "\\" + image
             os.system(imagick + imagePath + " " + imagePath[0:-3] +"webp")
             os.remove(imagePath)
+
+
 
 for theme in getUnscreenShottedThemes():
     generateScreenShots(theme)

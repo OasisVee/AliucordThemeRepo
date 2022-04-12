@@ -1312,7 +1312,7 @@
         "author": "Lanney",
         "version": "1.0.0",
         "fileName": "WhatsCord.json",
-        "transparencyMode": 0,
+        "transparencyMode": 3,
         "screenshots": [
             "/screenshots/WhatsCord/0.webp",
             "/screenshots/WhatsCord/1.webp",
