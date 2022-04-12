@@ -26,7 +26,7 @@ def downloadTheme(urla: str):
 
 
 def getAllThemes():
-    with open("guh.json", "r") as f:
+    with open("githubLinks.json", "r") as f:
         themes = json.loads(f.read())
     return themes
 
