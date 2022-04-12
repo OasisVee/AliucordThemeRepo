@@ -40,7 +40,7 @@ def generateScreenShots(themeFileName: str):
     os.system(sendFile)
     os.system(sendCommand.format(guh=themeFileName))
     os.system(startcommand)
-    sleep(9)
+    sleep(11)
 
     dirName = themeFileName.removesuffix(".json")
     try:
@@ -147,11 +147,12 @@ def guh():
 
     
 
-imagick = r'C:\"Program Files"\ImageMagick-6.9.12-Q8\convert.exe '
+imagick = r'C:\"Program Files"\ImageMagick-7.1.0-Q16\convert.exe '
 path = r"C:\Users\manti\Desktop\projeler\themerScreenshoter\screenshots\\"
 def compressImages():
     for folder in os.listdir(path):
         for image in os.listdir(path + folder):
+            if (not image.endswith(".png")): continue
             print("Compressing",folder + "/" + image)
             imagePath:str = path + folder + "\\" + image
             os.system(imagick + imagePath + " " + imagePath[0:-3] +"webp")
@@ -160,5 +161,7 @@ def compressImages():
 for theme in getUnscreenShottedThemes():
     generateScreenShots(theme)
 
+compressImages()
+
     # generateThemeList()
-guh()
+#guh()
