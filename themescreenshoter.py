@@ -31,19 +31,17 @@ def getTheme(themeFileName: str):
     return theme
 
 def generateScreenShots(theme: dict):
-    themeFileName = theme["fileName"]
-    themeName = getThemeName(themeFileName)
     os.system(stopcommand)
     os.system(getFile)
     with open("Themer.json", "w") as f:
-        f.write(json.dumps({themeName + '-enabled': True,
+        f.write(json.dumps({theme["name"] + '-enabled': True,
                 "transparencyMode": theme["transparencyMode"]}, indent=4))
     os.system(sendFile)
-    os.system(sendCommand.format(guh=themeFileName))
+    os.system(sendCommand.format(guh=theme["fileName"]))
     os.system(startcommand)
     sleep(11)
 
-    dirName = themeFileName.removesuffix(".json")
+    dirName = theme["fileName"].removesuffix(".json")
     try:
         os.mkdir(projectDir + "/screenshots/" + dirName)
     except:
@@ -65,8 +63,8 @@ def getUnscreenShottedThemes():
     themes = getAllThemesJSON()
     themesToScreenshoted = []
     for theme in themes:
-        if not ((os.path.isdir("screenshots/" + theme["name"].removesuffix(".json"))) and
-                len(os.listdir("screenshots/" + theme["name"].removesuffix(".json"))) == 3):
+        if not ((os.path.isdir("screenshots/" + theme["fileName"].removesuffix(".json"))) and
+                len(os.listdir("screenshots/" + theme["fileName"].removesuffix(".json"))) == 3):
             themesToScreenshoted.append(theme)
     return themesToScreenshoted
 
@@ -163,12 +161,11 @@ def compressImages():
             os.system(imagick + imagePath + " " + imagePath[0:-3] +"webp")
             os.remove(imagePath)
 
-
-
-for theme in getUnscreenShottedThemes():
+themesToScreenshot = getUnscreenShottedThemes()
+print(f"Generating screemshots for {len(themesToScreenshot)} themes")
+for theme in themesToScreenshot:
+    print(f"Generating screenshots for {theme['name']}")
     generateScreenShots(theme)
 
 compressImages()
 
-    # generateThemeList()
-#guh()
