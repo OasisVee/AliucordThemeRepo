@@ -456,18 +456,6 @@
         ]
     },
     {
-        "name": "Echidna Christmas",
-        "author": "wind",
-        "version": "0.2.2",
-        "fileName": "Echidna_Christmas.json",
-        "transparencyMode": 0,
-        "screenshots": [
-            "/screenshots/Echidna_Christmas/0.webp",
-            "/screenshots/Echidna_Christmas/1.webp",
-            "/screenshots/Echidna_Christmas/2.webp"
-        ]
-    },
-    {
         "name": "Edo-murasaki",
         "author": "Ishikaze#8709",
         "version": "1.0.3",
